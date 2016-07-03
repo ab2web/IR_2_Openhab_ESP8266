@@ -1,6 +1,5 @@
 # IR_2_Openhab_ESP8266
 
-/*
  * IR_2_Openhab_ESP8266: receiving IR codes with IRrecv and send commands to openhab devices (toggle lights).
  * An IR detector/demodulator must be connected to the input RECV_PIN. 
  * Change Wlan-SSID and password and also set the right host (or ip-adress) and port of your openhab-server.
