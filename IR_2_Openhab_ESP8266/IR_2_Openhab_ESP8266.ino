@@ -28,6 +28,7 @@
 
 int status = WL_IDLE_STATUS;     // the Wifi radio's status
 int RECV_PIN = 2; //an IR detector/demodulatord is connected to GPIO pin 2
+char ssid[] = "FRITZ!Box.......";     //  your network SSID (name) 
 char pass[] = "*************";  // your network password
 const char* host = "odroid";
 const int httpPort = 8080;
